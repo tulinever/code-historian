@@ -62,7 +62,7 @@
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/code-historian.git
+git clone https://github.com/KirtiJha/code-historian.git
 cd code-historian
 npm install
 npm run build
@@ -255,7 +255,7 @@ When using cloud providers (OpenAI, HuggingFace, Anthropic), only embedding requ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/code-historian.git
+git clone https://github.com/KirtiJha/code-historian.git
 cd code-historian
 
 # Install dependencies
@@ -338,6 +338,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ for developers who value their code history**
 
-[Report Bug](https://github.com/yourusername/code-historian/issues) • [Request Feature](https://github.com/yourusername/code-historian/issues)
+[Report Bug](https://github.com/KirtiJha/code-historian/issues) • [Request Feature](https://github.com/KirtiJha/code-historian/issues)
 
 </div>
